@@ -1,0 +1,1 @@
+My solutions to VU MIF Functional Programming course assignments with Haskell.
